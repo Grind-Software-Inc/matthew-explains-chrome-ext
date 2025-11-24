@@ -3,7 +3,7 @@
   "name": "Matthew Explains Video Progress Saver",
   "version": "1.0",
   "homepage_url": "https://grindsoftware.com",
-  "description": "Automatically saves and restores video playback positions on matthewexplains.com. Note: this extension is not affiliated with or endorsed by Matthew Explains.",
+  "description": "Saves and restores video playback positions on matthewexplains.com. Note: not affiliated with Matthew Explains.",
   "permissions": [
     "storage"
   ],
