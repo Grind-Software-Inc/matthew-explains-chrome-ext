@@ -11,7 +11,7 @@ A Chrome extension that automatically saves and restores video playback position
 
 ## Installation
 
-If installing from this Github Repo:
+**If installing from this Github Repo:**
 
 1. **Clone or Download** this repository to your local machine
 
@@ -32,6 +32,10 @@ If installing from this Github Repo:
 5. **Verify Installation**:
    - You should see "Matthew Explains Video Progress Saver" in your extensions list
    - The extension is now active
+   - 
+**If installing from the Chrome Web Store:**
+
+[https://chromewebstore.google.com/detail/matthew-explains-video-pr/fecblofaodiddnllpabpldijdpjoadmm](https://chromewebstore.google.com/detail/matthew-explains-video-pr/fecblofaodiddnllpabpldijdpjoadmm)
 
 ## Usage
 
